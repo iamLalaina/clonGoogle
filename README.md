@@ -3,9 +3,9 @@
 
 ## ÍNDICE
 
-* [1. Intro]([https://github.com/iamLalaina/clonGoogle/edit/main/README.md#1-intro](https://github.com/iamLalaina/clonGoogle/blob/main/README.md#1-intro))
-* [2. Qué construí]([https://github.com/iamLalaina/clonGoogle/edit/main/README.md#2-qu%C3%A9-constru%C3%AD](https://github.com/iamLalaina/clonGoogle/blob/main/README.md#2-qu%C3%A9-constru%C3%AD))
-* [3. Objetivo del proyecto]([https://github.com/iamLalaina/clonGoogle/edit/main/README.md#3-objetivo-del-proyecto](https://github.com/iamLalaina/clonGoogle/blob/main/README.md#3-objetivo-del-proyecto))
+* [1. Intro](https://github.com/iamLalaina/clonGoogle/blob/main/README.md#1-intro)
+* [2. Qué construí](https://github.com/iamLalaina/clonGoogle/blob/main/README.md#2-qu%C3%A9-constru%C3%AD)
+* [3. Objetivo del proyecto](https://github.com/iamLalaina/clonGoogle/blob/main/README.md#3-objetivo-del-proyecto)
 ****
 ## 1. Intro
 HTML5 trabaja de la mano con CSS3 para crear páginas web que usamos todos los días en el navegador. Incluso este sitio web donde estás viendo este contenido está construido cn HTML y CSS.
